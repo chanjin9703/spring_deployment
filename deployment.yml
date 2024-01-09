@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: pod-mysb
-        image: ks3ppp/spring:23
+        image: ks3ppp/spring:24
         ports:
         - containerPort: 8085
 ---
